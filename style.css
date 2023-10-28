@@ -13,11 +13,11 @@ body {
 
 .titulo-principal {
 	padding-left: 20px;
-	color: #FFFFFF;
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	color: #FFFFFF;
 }
 
 p {
